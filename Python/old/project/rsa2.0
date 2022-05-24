@@ -1,0 +1,7 @@
+//C++ program for encryption and decryption
+#include<iostream>
+using namespace std;
+
+int main{
+  printf("What the fuck\n", );
+}
