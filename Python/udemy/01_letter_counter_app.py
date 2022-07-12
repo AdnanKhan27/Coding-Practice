@@ -1,12 +1,14 @@
-# Basic Data types Challenge 1
-# Letter Counter App
+# Basic Data types Challenge 1: Letter Counter App
+
 print("Hello, Welcome to the Letter Counter App🔢")
+
+# Getting username
 username = input("What is your name? ")
 print(f"""Hello {username}!
 I will count the number of times a specific letter occurs in a message.
 """)
 
-# taking user input all in lowercase
+# Getting user input standardized to lowercase
 message = input("Please Enter a message: ").lower()
 letter = input("Enter a letter to count the occurences of: ").lower()
 
