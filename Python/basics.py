@@ -13,7 +13,7 @@ print("Hello World!")
 
 # Boolean and Gates
 bool(2&1) # both values should be equal for the AND to return TRUE
-
+``
 '''Creating Virtual Environment
 python3 -m venv ./venv
 '''
