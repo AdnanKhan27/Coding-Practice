@@ -1,4 +1,4 @@
-# Basic Data types Challenge 1: Letter Counter App
+# Basic Data types Challenge 1: Letter Counter App /test
 
 print("Hello, Welcome to the Letter Counter App🔢")
 
